@@ -1,0 +1,3 @@
+2024-09-25 14:15:42,918 - INFO - Probeer het bestand '/Users/alexandergiele/Documents/AI face req mac/personendata/personen.txt' te openen.
+2024-09-25 14:15:42,918 - INFO - Aantal personen geladen: 1.
+2024-09-25 14:15:42,918 - INFO - Probeer het bestand '/Users/alexandergiele/Documents/AI face req mac/Gezichten/Naamlijst.txt' te openen.
